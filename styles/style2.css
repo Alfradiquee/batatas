@@ -10,6 +10,7 @@ body {
 
 .anc {
     color: #000fe2;
+    font-weight: bold;
 
 }
 
@@ -27,11 +28,46 @@ header {
     height: 250px;
 }
 
-#txt {
+.txt {
     background-color: white;
     color: black;
     font-family: 'Chakra Petch', sans-serif;
     padding: 15px 20px 15px 20px;
-    padding-bottom: 200px;
+    
+}
+
+#menu {
+    display: inline-block;
+}
+
+.itemudb {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.nome {
+    margin: 148px;
+}
+
+.pessoa {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.andamento {
+    margin:500px;
+    color: red;
+    font-weight: bold;
+    
+}
+
+.cont {
+    background-color: rgb(255, 255, 55);
+    border-radius: 40px;
+    padding: 30px;
+}
+
+.creditos {
+    background-color: aqua;
 }
 
